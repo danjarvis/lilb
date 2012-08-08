@@ -1,12 +1,12 @@
 {
-    "name": "essindees",
+    "name": "lblwp",
   	"version": "1.0.0",
   	"dependencies": {
       "express": "2.5.8",
       "ejs": ">= 0.0.1"
     },
 	"engines": {
-		"node": "0.6.18",
-		"npm": "1.1.9"
+		"node": "0.8.x",
+		"npm": "1.1.x"
 	}
 }
